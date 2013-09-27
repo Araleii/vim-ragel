@@ -1,0 +1,16 @@
+Ragel is released under the GNU General Public License. A copy of the license
+is included in the distribution. It is also available from GNU.
+
+Note: Parts of Ragel output are copied from Ragel source covered by the GNU
+  GPL. As a special exception to the GPL, you may use the parts of Ragel output
+  copied from Ragel source without restriction. The remainder of Ragel output is
+  derived from the input and inherits the copyright status of the input file. Use
+  of Ragel makes no requirements about the license of generated code.
+
+
+Credits
+=======
+
+Ragel was written by Adrian Thurston. It was originally developed in early 2000
+and was first released January 2002. Many people have contributed feedback,
+ideas and code. Please have a look at the CREDITS file.
